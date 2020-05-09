@@ -4,6 +4,7 @@
 int main()
 {
     printf("Hello, world!");
+    printf("Hello, ikey!");
     system("pause");
     return 0;
 }
